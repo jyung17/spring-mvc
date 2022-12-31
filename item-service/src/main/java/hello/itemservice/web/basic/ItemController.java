@@ -125,7 +125,6 @@ public class ItemController {
     return "redirect:/basic/items/{itemId}";
   }
   
-  
   /**
    * 테스트용 데이터 추가
    */
